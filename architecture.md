@@ -159,37 +159,6 @@ Published the completed report to Power BI Service to support centralized report
 
 Used a Workspace and Power BI App to provide team members with access to the reporting solution.
 
----
-
-## 🛠️ Technology Flow
-
-```text
-DATA INGESTION
-Power BI Folder Connector
-        │
-        ▼
-DATA TRANSFORMATION
-Power Query
-        │
-        ▼
-ANALYTICS
-Data Model + DAX
-        │
-        ▼
-VISUALIZATION
-Power BI Desktop
-        │
-        ▼
-DEPLOYMENT
-Power BI Service
-        │
-        ▼
-DISTRIBUTION
-Workspace + Power BI App
-```
-
----
-
 ## 📌 Architecture Summary
 
 The solution follows a complete Business Intelligence workflow:
