@@ -102,9 +102,6 @@ The dashboard includes interactive date and trend analysis.
 ## 6. Weekday Connectivity Analysis
 Connectivity is analyzed across weekdays to identify patterns in prospect engagement.
 
-## 7. Sales Pipeline Monitoring
-The dashboard also includes sales pipeline metrics such as:
-
 ---
 
 # 📅 Reporting Views
